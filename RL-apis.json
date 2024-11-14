@@ -1,1 +1,5 @@
-
+{
+  "apis": {
+    "nilou": "https://nilou-chatbot-api-byrl.onrender.com/api/reply"
+  }
+}
