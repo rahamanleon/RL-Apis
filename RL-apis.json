@@ -1,5 +1,6 @@
 {
   "apis": {
-    "nilou": "https://nilou-chatbot-api-byrl.onrender.com/api/reply"
+    "nilou": "https://nilou-chatbot-api-byrl.onrender.com/api/reply",
+    "icu7": "https://chatapi-icu7.onrender.com/api/reply/"
   }
 }
